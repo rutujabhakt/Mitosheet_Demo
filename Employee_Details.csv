@@ -1,0 +1,54 @@
+City,State,Employee Name,Salary LPA,Variable,Incentive,Appraisal Rate,Joining Date
+Agra[AG1],Uttar Pradesh,Bonnie Potter,1080000,14800,8.3000,7.2,05-Nov-16
+Ahmedabad[AH5],Gujarat,Bonnie Potter,1770000,14200,9.3000,9.6,26-Aug-16
+Allahabad[AL2],Uttar Pradesh,Bonnie Potter,910000,13700,9.4000,10.2,27-Jan-17
+Amritsar[AM3],Punjab,Bonnie Potter,930000,14000,9.2000,10.7,12-Dec-15
+Aurangabad[AU8],Maharashtra,Bonnie Potter,950000,16700,9.4000,9.6,08-Apr-15
+Bangalore[BA1],Karnataka,Bonnie Potter,1820000,14100,7.9000,9.5,26-Mar-16
+Bareilly[BA2],Uttar Pradesh,Ronnie Proctor,500000,17100,10.0000,11.1,20-Nov-15
+Bhopal[BH9],Madhya Pradesh,Ronnie Proctor,1260000,6000,10.0000,10.3,14-Apr-17
+Chandigarh[CH9],Chandigarh,Dwight Hwang,570000,14400,16.8000,7.4,11-Jan-16
+Chennai[CH7],Tamil Nadu,Dwight Hwang,1860000,12100,13.6000,9.7,17-Jun-16
+Coimbatore[CO7],Tamil Nadu,Dwight Hwang,860000,18800,11.3000,8.2,21-Oct-15
+Delhi[DE3],Delhi,Dwight Hwang,2060000,11400,15.2000,8.3,07-Apr-15
+Dhanbad[DH5],Jharkhand,Leon Gill,940000,10200,6.7000,8.9,19-May-15
+Faridabad[FA4],Haryana,Melanie Garner,1060000,15100,8.3000,7.1,11-May-16
+Ghaziabad[GH4],Uttar Pradesh,Lorraine Houston,1100000,10100,3.6000,8.4,09-Jun-16
+Guwahati[GU2],Assam,Meredith Norris Thomas,570000,19000,10.8000,9.2,19-Jul-16
+Gwalior[GW4],Madhya Pradesh,Marcus Dunlap,800000,20200,11.9000,8.9,12-Apr-15
+Howrah[HO7],West Bengal,Kara Pace,860000,14900,10.9000,10.3,05-Mar-17
+Hubballi-Dharwad[HU1],Karnataka,Gwendolyn F Tyson,520000,16000,9.8000,9.9,12-Jan-17
+Hyderabad[HY8],Telangana,Gwendolyn F Tyson,1790000,12000,13.7000,9.2,20-Feb-15
+Indore[IN1],Madhya Pradesh,Gwendolyn F Tyson,1290000,13300,10.3000,8.7,09-Mar-17
+Jabalpur[JA9],Madhya Pradesh,Gwendolyn F Tyson,800000,15300,11.6000,8.3,30-Sep-16
+Jaipur[JA6],Rajasthan,Gwendolyn F Tyson,1520000,8000,13.8000,10,20-Sep-16
+Jodhpur[JO6],Rajasthan,Timothy Reese,770000,17500,9.8000,9.7,14-Nov-16
+Kalyan-Dombivali[KA5],Maharashtra,Timothy Reese,1020000,14700,9.1000,9.2,19-Sep-16
+Kanpur[KA2],Uttar Pradesh,Timothy Reese,1440000,12300,9.3000,8.7,27-Dec-16
+Kolkata[KO2],West Bengal,Timothy Reese,1620000,10200,14.8000,9.1,19-Apr-15
+Kota[KO7],Rajasthan,Timothy Reese,600000,19000,10.8000,9.6,03-Nov-15
+Lucknow[LU6],Uttar Pradesh,Timothy Reese,1500000,12900,14.7000,8.7,12-May-16
+Ludhiana[LU5],Punjab,Sarah Ramsey,1090000,12900,8.0000,9.1,01-Sep-14
+Madurai[N 2],Tamil Nadu,Sarah Ramsey,710000,16300,10.1000,10.7,16-Sep-14
+Meerut[ME9],Uttar Pradesh,Sarah Ramsey,1060000,17700,10.1000,13,17-Jan-14
+Moradabad[MO2],Uttar Pradesh,Florence Hsu Schwarz,400000,15300,9.0000,8.8,16-Oct-15
+Mumbai[MU9],Maharashtra,Florence Hsu Schwarz,2920000,9500,13.5000,10.8,13-Apr-16
+Mysore[MY8],Karnataka,Laurie Hanna,350000,17300,11.3000,9.9,03-Sep-15
+Nagpur[NA7],Maharashtra,Laurie Hanna,1340000,16500,11.7000,7.6,26-Jan-14
+Nashik[NA6],Maharashtra,Laurie Hanna,1080000,15000,9.8000,10.4,20-Jun-16
+Navi Mumbai[NA1],Maharashtra,Laurie Hanna,920000,14000,8.4000,9.6,08-Mar-17
+Patna[PA1],Bihar,Laurie Hanna,1130000,9000,12.5000,7.2,07-Aug-16
+Pimpri-Chinchwad[PI6],Maharashtra,Laurie Hanna,1170000,11800,7.4000,9.8,01-Apr-16
+Pune[PU8],Maharashtra,Jim Rodgers,1620000,14600,7.3000,10.5,25-Apr-15
+Raipur[RA3],Chhattisgarh,Marion Nolan Kaplan,690000,9900,12.4000,10.4,22-Feb-15
+Rajkot[RA9],Gujarat,Marion Nolan Kaplan,1030000,13100,8.1000,8.4,26-Feb-15
+Ranchi[RA1],Jharkhand,Marion Nolan Kaplan,880000,10500,14.4000,10.4,13-Nov-15
+Solapur[SO1],Maharashtra,Tony Wilkins Winters,570000,16500,10.0000,10.4,18-Mar-15
+Srinagar[SR2],Jammu and Kashmir,Tony Wilkins Winters,950000,12300,16.5000,10.3,12-Jun-15
+Surat[SU8],Gujarat,Tony Wilkins Winters,1580000,14100,7.4000,11.2,10-Feb-16
+Thane[TH6],Maharashtra,Tony Wilkins Winters,1270000,17800,10.6000,9.1,31-Mar-15
+Vadodara[VA2],Gujarat,Tony Wilkins Winters,1110000,16200,8.2000,8.8,28-Feb-17
+Varanasi[VA6],Uttar Pradesh,Tony Wilkins Winters,970000,12400,8.9000,8.9,03-Jul-15
+Vasai-Virar[VV6],Maharashtra,Tony Wilkins Winters,1010000,16800,9.8000,9.4,27-Jun-15
+Vijayawada[VI8],Andhra Pradesh,Tony Wilkins Winters,780000,12400,15.2000,9.9,25-May-16
+Visakhapatnam[VI3],Andhra Pradesh,Tony Wilkins Winters,1240000,14100,8.3000,10.9,19-Jan-17
